@@ -188,4 +188,3 @@ Send me your task. I'll tell you honestly whether it can be automated.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA4B71,50:7C3AED,100:0F172A&height=110&section=footer" width="100%" alt=""/>
-s ss
